@@ -1,5 +1,5 @@
 [![MasterHead](https://dribbble.com/shots/19211886-Ceditor-Code-Editor-App)](https://github.com/Sdiene696)
-<h1 align="center">Salut 👋, Je suis suis Sokhna Diene</h1>
+<h1 align="center">Salut 👋, Je suis Sokhna Diene</h1>
 <h3 align="center">Une passionnée de Développement Web|Technologies|Informatique</h3>
 <p align="rigth"><img width="400" src="https://dribbble.com/shots/24825932-Techie"></p>
 
