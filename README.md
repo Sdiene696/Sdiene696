@@ -3,10 +3,6 @@
 <h3 align="center">Une passionnée de Développement Web|Technologies|Informatique</h3>
 <p align="rigth"><img width="400" src="https://dribbble.com/shots/24825932-Techie"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sdiene696&label=Profile%20views&color=0e75b6&style=flat" alt="sdiene696" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sdiene696" alt="sdiene696" /></a> </p>
-
 - 🔭 Je travaille actuellement sur un projet académique de **gestion de pointage**
 
 - 🌱 J'apprends actuellement **Laravel,Angular**
@@ -16,6 +12,7 @@
 - 🤝 Je suis à la recherche de **stage**
 
 - 📫 N'hésiter pas à me contacter sur **sdiene696@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdiene696&show_icons=true&locale=en" alt="sdiene696" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdiene696&" alt="sdiene696" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sdiene696&" alt="sdiene696" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sdiene696&label=Profile%20views&color=0e75b6&style=flat" alt="sdiene696" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sdiene696" alt="sdiene696" /></a> </p>
