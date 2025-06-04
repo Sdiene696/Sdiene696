@@ -3,7 +3,7 @@
 <h3 align="center">Une passionnée de Développement Web|Technologies|Informatique</h3>
 <p align="rigth"><img width="400" src="https://dribbble.com/shots/24825932-Techie"></p>
 
-- 🔭 Je travaille actuellement sur un projet académique de **gestion de pointage**
+- 🔭 Je travaille actuellement sur un projet académique de **gestion de restaurant**
 
 - 🌱 J'apprends actuellement **Laravel,Angular**
 
